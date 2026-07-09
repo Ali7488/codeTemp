@@ -31,9 +31,13 @@
   },
   "homepage": "https://github.com/Ali7488/codeTemp#readme",
   "devDependencies": {
+    "@babel/core": "^7.29.7",
+    "@babel/preset-env": "^7.29.7",
+    "babel-jest": "^30.4.1",
     "css-loader": "^7.1.4",
     "eslint": "^10.6.0",
     "html-webpack-plugin": "^5.6.7",
+    "jest": "^30.4.2",
     "prettier": "^3.9.4",
     "style-loader": "^4.0.0",
     "webpack": "^5.108.3",
